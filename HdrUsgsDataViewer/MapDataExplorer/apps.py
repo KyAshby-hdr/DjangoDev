@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class MapviewerConfig(AppConfig):
+class MapdataexplorerConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'mapViewer'
+    name = 'MapDataExplorer'
